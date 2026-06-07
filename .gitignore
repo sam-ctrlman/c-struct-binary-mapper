@@ -1,0 +1,5 @@
+# Ignore the compiled C binary
+driver
+
+# Ignore the virtual hard drive file
+floppy.img
